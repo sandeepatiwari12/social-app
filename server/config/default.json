@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://admin:admin@devconnector-opmpe.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "149192ee4eab44293ad8",
+    "githubSecret": "1f577c07016d5e17daf99bef434cf30facdbfe0e"
+}
